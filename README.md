@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **my next goals in the workplace.**
 
-- 💬 Ask me about **Java and stadistic poker softwares.**
+- 💬 Ask me about **Java and statistic poker softwares.**
 
 - 📫 How to reach me **carlos.gasull@gmail.com**
 
